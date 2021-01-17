@@ -1,0 +1,500 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ays Facebook Popup Likebox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-12 16:19+0400\n"
+"PO-Revision-Date: 2018-07-13 11:50+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-ays-facebook-popup-likebox-admin.php:129
+#: ../admin/class-ays-facebook-popup-likebox-admin.php:130
+msgid "Facebook Popup Likebox"
+msgstr ""
+
+#: ../admin/class-ays-facebook-popup-likebox-admin.php:146
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:220
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:811
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-ays-facebook-popup-likebox-admin.php:174
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:9
+msgid "Facebook LikeBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:55
+msgid "Add new Facebook LikeBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:59
+msgid "Edit Facebook LikeBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:95
+msgid "Edit Image"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:98
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:213
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:892
+msgid "Save LikeBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:214
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:894
+msgid "Apply LikeBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:219
+msgid "General"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:221
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:499
+msgid "Styles"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:231
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:232
+msgid "AYS FB LikeBox information"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:237
+msgid "Enable/Disable PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:238
+msgid "This PopupBox is used for showing the PopupBox. Enable: show PopupBox. Disable: do not show PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:257
+msgid "Enable for guests"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:258
+msgid "This field is used for showing the PopupBox for guests."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:273
+msgid "Enable for logged in users"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:274
+msgid "This field is used for showing the PopupBox for logged in users."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:289
+msgid "Hide LikeBox on mobile"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:291
+msgid "This field is used for hiding the LikeBox on mobile devices."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:306
+msgid "Show in all pages"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:307
+msgid "This parameter is responsible for the display of PopupBox, whether or not the PopupBox is displayed on all pages or not"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:313
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:410
+msgid "Yes"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:316
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:413
+msgid "No"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:324
+msgid "Show only "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:325
+msgid "With the help of the choice of this field, you can choose in what page PopupBox should be opened"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:329
+msgid "Clear"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:364
+msgid "Facebook page url"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:365
+msgid "With the help of this insert field, it notes Facebook URL address seen in PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:378
+msgid "Language"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:402
+msgid "Hide click to action button "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:403
+msgid "With the help of the choice of this field, it notes whether opened in PopupBox for facebook page is intended for matching the action button to display or not"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:420
+msgid "Show on"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:421
+msgid "With the help of the choice of this field, you can see the information about Facebook page opened in PopupBox:"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:421
+msgid "Timeline of the page"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:421
+msgid "Events of the page"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:421
+msgid "Messages of the page"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:428
+msgid "Timeline"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:431
+msgid "Events"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:434
+msgid "Messages"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:441
+msgid "Use in FB plugin"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:442
+msgid "With the help of the choice of this field, it displays the data used in the Facebook page seen in PopupBox:"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:442
+msgid "Show a small header"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:442
+msgid "Hide cover photos"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:442
+msgid "Show friend faces"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:449
+msgid "Small header"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:452
+msgid "Hide Cover Photoes"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:455
+msgid "Show Friend Faces"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:462
+msgid "Likebox Title"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:463
+msgid "This field shows the name of the PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:476
+msgid "Show Likebox title"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:477
+msgid "Enable to show the PopupBox title in the start (in the front-end)."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:489
+msgid "Likebox Description"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:490
+msgid "This field shows the description of the PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:500
+msgid "AYS Facebook Popoup Likebox Styles"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:507
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:509
+msgid "Background image of the popupbox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:518
+msgid "If you add background image, background color not be applied. Remove image or don't add it, if you want background color will be apply"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:536
+msgid "PopupBox background color: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:537
+msgid "This field notes PopupBox background color"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:550
+msgid "PopupBox text color: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:551
+msgid "With the help of this field, you can see the text color of PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:564
+msgid "PopupBox border color: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:565
+msgid "This field notes the border color of the PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:578
+msgid "PopupBox border size: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:579
+msgid "This field notes the border size of the PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:592
+msgid "PopupBox border radius: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:593
+msgid "This field notes the border radius of the PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:606
+msgid "Width"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:607
+msgid "This field provides information of PopupBox width with pixels"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:620
+msgid "PopupBox max-width for mobile"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:621
+msgid "PopupBox container max-width for mobile in percentage. This option will work for the screens with less than 640 pixels width."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:628
+#, php-format
+msgid "For 100% leave blank"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:635
+msgid "Height"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:636
+msgid "This field provides information of PopupBox height with pixels"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:649
+msgid "Box show effect: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:650
+msgid "This field notes that with what animation the PopupBox should be opened"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:706
+msgid "Box hide effect: "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:707
+msgid "This field notes that with what animation the PopupBox should be closed"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:764
+msgid "Custom class for Popup Box container"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:765
+msgid "Custom HTML class for Popup Box container. You can use your class for adding your custom styles for Popup Box container."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:780
+msgid "Custom Css:"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:781
+msgid "This field notes that how CSS design you can give to PopupBox"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:790
+msgid "See PopupBox in live preview"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:800
+msgid "Here your Facebook content"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:801
+msgid "This will close in X seconds"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:812
+msgid "AYS PopupBox Settings"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:817
+msgid "Show LikeBox only once"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:818
+msgid "Enable this field, if you want to show LikeBox only once per user."
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:833
+msgid "Auto close per seconds"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:834
+msgid "This section shows that after how many seconds the PopupBox will be closed. Set 0 for disable close timeout"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:847
+msgid "Delay "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:848
+msgid "This section shows how many milliseconds delay the PopupBox should be opened"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:861
+msgid "Show after scroll from top(px) "
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:862
+msgid "This field notes after how many scrolls from the top (px) the PopupBox should be opened"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:875
+msgid "Show promoter every 'X' minutes"
+msgstr ""
+
+#: ../admin/partials/actions/ays-facebook-popup-likebox-admin-actions.php:876
+msgid "This field notes that how many minutes PopupBox will be opened again, to reset cookie set 0"
+msgstr ""
+
+#: ../admin/partials/ays-facebook-popup-likebox-admin-display.php:27
+msgid "Add New"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:10
+msgid "Facebook LikeBoxes"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:278
+msgid "There are no likeboxes yet."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:332
+msgid "Edit"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:334
+msgid "Unpublish"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:335
+msgid "Publish"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:337
+msgid "Delete"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:358
+msgid "Title"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:359
+msgid "Enabled/Disabled"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:360
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:361
+msgid "ID"
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:470
+msgid "Facebook Likebox created."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:472
+msgid "Facebook Likebox saved."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:474
+msgid "Facebook Likebox published."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:476
+msgid "Facebook Likebox unpublished."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:478
+msgid "Facebook Likebox deleted."
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:480
+msgid "You're not allowed to add likebox for more likeboxes please checkout to "
+msgstr ""
+
+#: ../includes/lists/class-fb-popup-likbox-list-table.php:480
+msgid "version"
+msgstr ""
+
+#: ../public/class-ays-facebook-popup-likebox-public.php:304
+msgid "This will close in "
+msgstr ""
+
+#: ../public/class-ays-facebook-popup-likebox-public.php:304
+msgid " seconds"
+msgstr ""

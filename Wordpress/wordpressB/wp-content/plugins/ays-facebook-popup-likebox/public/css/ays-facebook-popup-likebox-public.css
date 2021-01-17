@@ -1,0 +1,117 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.ays-fpl-modals {
+    position: fixed;
+    pointer-events: none;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000000;
+    text-align: center;
+    white-space: nowrap;
+    height: 100%;
+}
+
+.ays-fpl-modals:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em;
+}
+
+.ays-fpl-modal-check {
+    pointer-events: auto;
+    opacity: 0;
+}
+
+.ays-fpl-modal-check:checked ~ .ays-fpl-modal {
+    pointer-events: auto;
+}
+
+.ays-fpl-modal {
+    max-width: 95%;
+    max-height: 95%;
+    background: #FFF;
+    z-index: 1;
+    display: none;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    padding: 25px;
+    text-align: right;
+    border-radius: 4px;
+    white-space: normal;
+    vertical-align: middle;
+    pointer-events: none;
+    overflow-y: scroll;
+    animation-duration: .5s;
+}
+
+.ays-fpl-modal-check ~ .ays-fpl-modal {
+    pointer-events: auto !important;
+}
+
+.ays-fpl-modal h2 {
+    text-align: center;
+    padding: 0;
+}
+
+.ays-fpl-modal p {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.ays-fpl-modal p.ays_fpl_timer{
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+.ays-fpl-modal hr{
+    margin-bottom: 0;
+}
+
+.ays-fpl-modal-close {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    cursor: pointer;
+}
+
+.ays-fpl-modal-check {
+    display: none;
+}
+
+.ays_fpl_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.ays-fpl-modal::-webkit-scrollbar { width: 0 !important }
+.ays-fpl-modal { -ms-overflow-style: none; }
+
+@media all and (max-width: 500px) {
+    .ays-fpl-modal{
+        padding: 0;
+    }
+    .ays-fpl-modal-close {
+        position: absolute;
+        top: 0px;
+        right: 5px;
+    }
+    .ays-fpl-modal h2{
+        font-size: 18px;
+    }
+    .ays-fpl-modal p{
+        font-size: 14px;
+    }
+}
